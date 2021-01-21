@@ -50,7 +50,7 @@ ${data.accomplish}
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Demo I createad ![script.js](${data.scriptjs})
 
-#### Demo I createad ![fileGenerator.js](${data.fileGnerator)
+#### Demo I createad ![fileGenerator.js](${data.fileGnerator})
 
 #### Demo I createad ![ReadMe.md](${data.ReadMe})
 
