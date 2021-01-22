@@ -1,4 +1,5 @@
 var fileGenerator = require("./fileGenerator");
+var fs = require("fs");
 var inquirer = require('inquirer');
 
 // questions to ask the user //
