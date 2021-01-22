@@ -46,15 +46,15 @@ let questions = [
         name: "contribute",
     },{
         type: "input",
-        message: "Please state any test(s) require.",
+        message: "Please state any test(s) require (1/3).",
         name: "test",
     },{
         type: "input",
-        message: "Please state any test(s) require.",
+        message: "Please state any test(s) require(2/3).",
         name: "test",
     },{
         type: "input",
-        message: "Please state any test(s) require.",
+        message: "Please state any test(s) require (3/3).",
         name: "test",
     },{
         type: "input",
@@ -74,11 +74,11 @@ let questions = [
         name: "scriptjs",
     },{
         type: "input",
-        message: "Please supply two references.",
+        message: "Please supply two references (1/2).",
         name: "ref1",
     },{
         type: "input",
-        message: "Please state any test(s) require.",
+        message: "Please supply two references (2/2).",
         name: "ref2"
     },{
         type: "input",
