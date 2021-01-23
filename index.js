@@ -51,11 +51,11 @@ let questions = [
     },{
         type: "input",
         message: "Please state any test(s) require(2/3).",
-        name: "test"
+        name: "test2"
     },{
         type: "input",
         message: "Please state any test(s) require (3/3).",
-        name: "test",
+        name: "test3",
     },{
         type: "input",
         message: "State your accomplishments.",

@@ -1,7 +1,6 @@
-function fileGenerator(response) {
-    var content = `# ${response.title}
-##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-#### ReadMeGenerator© 2020 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+# Creating A Good ReadMe.md Generator
+##### Assets/Media/apple-touch-icon.png[SuperCodingNinja](https://github.com/supercodingninja) [Email Me](mailto:SuperCodingNinja@outlook.com) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+#### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -13,7 +12,7 @@ function fileGenerator(response) {
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.description}
+We live in a busy world; and thriving buisinesses are busier.  As developer, you want a ReadMe generator: this enables you to quickly create a professional ReadMe for a new project.  This may even be the difference of staying on task(s), maintaining a job; or even recieveing a promotion (because you are ahead of your team).
     
 Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
@@ -32,42 +31,42 @@ Remember this also, as a developer, your goal should be designing NEW experience
 
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.contribute}
+I hope you enjoy this repository, and the application's link, given above and below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja)
 
 
 ## Test Instructions
 ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.test}
-    ${response.test2}
-    ${response.test3}
+    Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
+    Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub.
+     Run “node [fileName].js”
 
 
 ## Overview: What We Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
-${response.accomplish}
+An awesome and generic ReadMe.md file; which can be utilize for future endeavors!  I hope you enjoy this repository, and the application's link, given above and below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja)
 
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](${response.scriptjs})
+#### Demo I createad ![script.js](Assets/Media/JS.png)
 
-#### Demo I createad ![fileGenerator.js](${response.fileGnerator})
+#### Demo I createad ![fileGenerator.js](Assets/Media/FileGenerator.png)
 
-#### Demo I createad ![ReadMe.md](${response.ReadMe})
+#### Demo I createad ![ReadMe.md](Assets/Media/ReadMe.png)
 
     
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.ref1}
+[NPMjs](https://www.npmjs.com/package/inquirer) provides Documentation, Installation
 
-${response.ref2}
+Shields IO](https://shields.io/) provides documentations on how to add your shield, or creditbility.  Please feel free to view this resource, for your future developments.
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.endgoal}
+Stay on task, Get Ahead, Change The World!
 
 ## License
-${response.license}
+MIT
 
 Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
 
@@ -75,8 +74,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`
-    return content;
-};
-
-module.exports = fileGenerator;
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
