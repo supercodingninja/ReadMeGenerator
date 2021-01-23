@@ -1,7 +1,7 @@
 function fileGenerator(response) {
-    var content = `# ${data.title}
-##### ${data.logo}[${data.userName}](${data.GitHub}) [Email Me](${data.email}) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-#### ReadMeGenerator© 2020 All Rights Reserved.  ${data.license} All material must be cited or credited, when using material (free to use).
+    var content = `# ${response.title}
+##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+#### ReadMeGenerator© 2020 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -13,7 +13,7 @@ function fileGenerator(response) {
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-${data.description}
+${response.description}
     
 Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
@@ -32,40 +32,42 @@ Remember this also, as a developer, your goal should be designing NEW experience
 
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
-${data.contribute}
+${response.contribute}
 
 
 ## Test Instructions
 ###### [Back to Table of Contents](#Table-of-Contents)
-    ${data.test}
+    ${response.test}
+    ${response.test}
+    ${response.test}
 
 
 ## Overview: What We Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
-${data.accomplish}
+${response.accomplish}
 
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](${data.scriptjs})
+#### Demo I createad ![script.js](${response.scriptjs})
 
-#### Demo I createad ![fileGenerator.js](${data.fileGnerator})
+#### Demo I createad ![fileGenerator.js](${response.fileGnerator})
 
-#### Demo I createad ![ReadMe.md](${data.ReadMe})
+#### Demo I createad ![ReadMe.md](${response.ReadMe})
 
     
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-${data.ref1}
+${response.ref1}
 
-${data.ref2}
+${response.ref2}
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-${data.endgoal}
+${response.endgoal}
 
 ## License
-${data.license}
+${response.license}
 
 Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
 
