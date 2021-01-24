@@ -1,5 +1,6 @@
 # Creating A Good ReadMe.md Generator
-##### ![logo](Assets/Media/apple-touch-icon.png) ![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) [SuperCodingNinja](https://github.com/supercodingninja)  •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](https://www.youtube.com/watch?v=Pp9IG-prQjE)
+##### ![logo](Assets/Media/apple-touch-icon.png)
+![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) [SuperCodingNinja](https://github.com/supercodingninja)  •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](https://www.youtube.com/watch?v=Pp9IG-prQjE)
 #### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
