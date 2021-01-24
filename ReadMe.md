@@ -57,7 +57,7 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-1.  NPMjs](https://www.npmjs.com/package/inquirer) provides Documentation, Installation, Examples, Methods, Objects, Questions, Answers, Separator, Prompt Types, User Interfaces and Layouts, Reactive Interface, Support, Known issues, News, Contributing, License, and Plugins.  This was the core of this project; so be sure to view this resource, for your own future developments.
+1.  [NPMjs](https://www.npmjs.com/package/inquirer) provides Documentation, Installation, Examples, Methods, Objects, Questions, Answers, Separator, Prompt Types, User Interfaces and Layouts, Reactive Interface, Support, Known issues, News, Contributing, License, and Plugins.  This was the core of this project; so be sure to view this resource, for your own future developments.
 
 2.  [Shields IO](https://shields.io/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
 
