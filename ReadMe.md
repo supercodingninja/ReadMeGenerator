@@ -1,5 +1,5 @@
 # Creating A Good ReadMe.md Generator
-##### ![script.js](Assets/Media/apple-touch-icon.png) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+##### ![script.js](Assets/Media/apple-touch-icon.png) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Deployed Application](https://studio.youtube.com/video/Pp9IG-prQjE/edit)
 #### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
