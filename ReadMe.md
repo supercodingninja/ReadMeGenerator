@@ -19,7 +19,7 @@ Remember this also, as a developer, your goal should be designing NEW experience
 ## User Story
 ### As A Developer
 ###### [Back to Table of Contents](#Table-of-Contents)
-1.   I a command-line application that accepts user input.
+1.   I want a command-line application that accepts user input.
 2.   I want to be prompted for information about my application repository.
 3.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contribution Guidelines, Tests Instructions, and Questions.
 4.   I want my project title to display as the title of the README.
