@@ -12,7 +12,7 @@
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-We live in a busy world; and thriving businesses are busier.  As a developer, you want a ReadMe generator: this enables you to quickly create a professional README for a new project.  This may even be the difference of staying on task(s), maintaining a job; or even eceiving a promotion (because you are ahead of the team).
+We live in a busy world; and thriving businesses are busier.  As a developer, you want a ReadMe generator: this enables you to quickly create a professional README for a new project.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion (because you are ahead of the team).
 
 Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
