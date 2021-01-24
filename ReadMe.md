@@ -17,7 +17,7 @@ We live in a busy world; and thriving businesses are busier.  As a developer, yo
 Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
 ## User Story
-### As the Quiz Administrator
+### As A Developer
 ###### [Back to Table of Contents](#Table-of-Contents)
 1.   I a command-line application that accepts user input.
 2.   I want to be prompted for information about my application repository.
