@@ -33,7 +33,6 @@ Remember this also, as a developer, your goal should be designing NEW experience
 ###### [Back to Table of Contents](#Table-of-Contents)
 I hope you enjoy this repository, and the application's link, given above and below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja).
 
-
 ## Test Instructions
 ###### [Back to Table of Contents](#Table-of-Contents)
 1.  Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
